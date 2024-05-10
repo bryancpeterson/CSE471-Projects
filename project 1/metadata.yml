@@ -1,0 +1,12 @@
+---
+:id: 226464694
+:submitters:
+- :name: Bryan Peterson
+  :email: bcpete10@asu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-01 05:57:48.459404000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-01-31 21:57:48.459404000 Z
+:status: processed
+:score: 15.0
